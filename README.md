@@ -2,3 +2,4 @@
 ## For Elzero School Git Course
 ### Project Notes
 ***This is the first project can i do it , and i thank ossama for help me he is the main reason for learn web developement***
+> the quote say : your mind for making ideas , not holding them
