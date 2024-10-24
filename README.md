@@ -1,2 +1,3 @@
 # Git-_-course
-For Elzero School Git Course
+## For Elzero School Git Course
+### Project Notes
